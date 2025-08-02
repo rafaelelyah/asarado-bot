@@ -1,4 +1,4 @@
-# 🤖 Asarado Bot
+# 🤖 Asarado DBot
 
 Mascote digital oficial do estúdio **ASAR Lab**.  
 Gerencia versões, registra entregas, gera changelogs e interage com projetos diretamente via **Discord**.
